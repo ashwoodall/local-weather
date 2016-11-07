@@ -1,0 +1,29 @@
+body {
+  font-family: 'Helvetica';
+  background: #82A0BC !important;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.title {
+  color: #B7D5F0 !important;
+}
+
+p {
+  color: #63ADF2;
+  font-size: 24px;
+}
+
+.container-fluid{
+  margin-top: 60px;
+  padding: 30px;
+  height: 60%;
+  width: 40%;
+  background: #304D6D;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+
